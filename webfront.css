@@ -1,3 +1,7 @@
 .ipsWebFront {
   background-color: #635b5b;
 }
+
+.ipsTabPane>.navigation {
+  background-color: #312e2e;
+}
